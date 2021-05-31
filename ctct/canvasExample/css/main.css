@@ -4,3 +4,15 @@
   left:10%;
   border:2px solid red;
 }
+
+#btn, #clr {
+  border-radius: 10%;
+}
+
+#btn {
+  background-color: lightblue;
+}
+
+#clr {
+  background-color: red;
+}
